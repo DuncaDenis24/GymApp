@@ -1,0 +1,14 @@
+C:\FACULTATE\AN 3\SEM 2\II\tEST\DB\DB\bin\Debug\DB.exe.config
+C:\FACULTATE\AN 3\SEM 2\II\tEST\DB\DB\bin\Debug\DB.exe
+C:\FACULTATE\AN 3\SEM 2\II\tEST\DB\DB\bin\Debug\DB.pdb
+C:\FACULTATE\AN 3\SEM 2\II\tEST\DB\DB\bin\Debug\EntityFramework.dll
+C:\FACULTATE\AN 3\SEM 2\II\tEST\DB\DB\bin\Debug\EntityFramework.SqlServer.dll
+C:\FACULTATE\AN 3\SEM 2\II\tEST\DB\DB\bin\Debug\EntityFramework.xml
+C:\FACULTATE\AN 3\SEM 2\II\tEST\DB\DB\bin\Debug\EntityFramework.SqlServer.xml
+C:\FACULTATE\AN 3\SEM 2\II\tEST\DB\DB\obj\Debug\DB.csproj.AssemblyReference.cache
+C:\FACULTATE\AN 3\SEM 2\II\tEST\DB\DB\obj\Debug\DB.csproj.CoreCompileInputs.cache
+C:\FACULTATE\AN 3\SEM 2\II\tEST\DB\DB\obj\Debug\DB.csproj.Up2Date
+C:\FACULTATE\AN 3\SEM 2\II\tEST\DB\DB\obj\Debug\DB.exe
+C:\FACULTATE\AN 3\SEM 2\II\tEST\DB\DB\obj\Debug\DB.pdb
+C:\FACULTATE\AN 3\SEM 2\II\tEST\DB\DB\obj\Debug\DB.Migrations.first.resources
+C:\FACULTATE\AN 3\SEM 2\II\tEST\DB\DB\obj\Debug\DB.csproj.GenerateResource.cache

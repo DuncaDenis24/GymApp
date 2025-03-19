@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\FACULTATE\\AN 3\\SEM 2\\II\\Proiect\\GymFrontend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5DA7DD23-E8F9-E7D1-63C9-3E598DBCC51C}|GymFrontend\\gymfrontend.esproj|c:\\facultate\\an 3\\sem 2\\ii\\proiect\\gymfrontend\\gymfrontend\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5DA7DD23-E8F9-E7D1-63C9-3E598DBCC51C}|GymFrontend\\gymfrontend.esproj|solutionrelative:gymfrontend\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DA7DD23-E8F9-E7D1-63C9-3E598DBCC51C}|GymFrontend\\gymfrontend.esproj|c:\\facultate\\an 3\\sem 2\\ii\\proiect\\gymfrontend\\gymfrontend\\eslint.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{5DA7DD23-E8F9-E7D1-63C9-3E598DBCC51C}|GymFrontend\\gymfrontend.esproj|solutionrelative:gymfrontend\\eslint.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DA7DD23-E8F9-E7D1-63C9-3E598DBCC51C}|GymFrontend\\gymfrontend.esproj|c:\\facultate\\an 3\\sem 2\\ii\\proiect\\gymfrontend\\gymfrontend\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5DA7DD23-E8F9-E7D1-63C9-3E598DBCC51C}|GymFrontend\\gymfrontend.esproj|solutionrelative:gymfrontend\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DA7DD23-E8F9-E7D1-63C9-3E598DBCC51C}|GymFrontend\\gymfrontend.esproj|c:\\facultate\\an 3\\sem 2\\ii\\proiect\\gymfrontend\\gymfrontend\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{5DA7DD23-E8F9-E7D1-63C9-3E598DBCC51C}|GymFrontend\\gymfrontend.esproj|solutionrelative:gymfrontend\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DA7DD23-E8F9-E7D1-63C9-3E598DBCC51C}|GymFrontend\\gymfrontend.esproj|c:\\facultate\\an 3\\sem 2\\ii\\proiect\\gymfrontend\\gymfrontend\\src\\styles\\background.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5DA7DD23-E8F9-E7D1-63C9-3E598DBCC51C}|GymFrontend\\gymfrontend.esproj|solutionrelative:gymfrontend\\src\\styles\\background.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DA7DD23-E8F9-E7D1-63C9-3E598DBCC51C}|GymFrontend\\gymfrontend.esproj|c:\\facultate\\an 3\\sem 2\\ii\\proiect\\gymfrontend\\gymfrontend\\src\\components\\background.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{5DA7DD23-E8F9-E7D1-63C9-3E598DBCC51C}|GymFrontend\\gymfrontend.esproj|solutionrelative:gymfrontend\\src\\components\\background.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DA7DD23-E8F9-E7D1-63C9-3E598DBCC51C}|GymFrontend\\gymfrontend.esproj|c:\\facultate\\an 3\\sem 2\\ii\\proiect\\gymfrontend\\gymfrontend\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{5DA7DD23-E8F9-E7D1-63C9-3E598DBCC51C}|GymFrontend\\gymfrontend.esproj|solutionrelative:gymfrontend\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DA7DD23-E8F9-E7D1-63C9-3E598DBCC51C}|GymFrontend\\gymfrontend.esproj|c:\\facultate\\an 3\\sem 2\\ii\\proiect\\gymfrontend\\gymfrontend\\src\\styles\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5DA7DD23-E8F9-E7D1-63C9-3E598DBCC51C}|GymFrontend\\gymfrontend.esproj|solutionrelative:gymfrontend\\src\\styles\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DA7DD23-E8F9-E7D1-63C9-3E598DBCC51C}|GymFrontend\\gymfrontend.esproj|c:\\facultate\\an 3\\sem 2\\ii\\proiect\\gymfrontend\\gymfrontend\\src\\components\\login.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{5DA7DD23-E8F9-E7D1-63C9-3E598DBCC51C}|GymFrontend\\gymfrontend.esproj|solutionrelative:gymfrontend\\src\\components\\login.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DA7DD23-E8F9-E7D1-63C9-3E598DBCC51C}|GymFrontend\\gymfrontend.esproj|c:\\facultate\\an 3\\sem 2\\ii\\proiect\\gymfrontend\\gymfrontend\\src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5DA7DD23-E8F9-E7D1-63C9-3E598DBCC51C}|GymFrontend\\gymfrontend.esproj|solutionrelative:gymfrontend\\src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\FACULTATE\\AN 3\\SEM 2\\II\\Proiect\\GymFrontend\\gymfrontend\\index.html",
+              "RelativeDocumentMoniker": "gymfrontend\\index.html",
+              "ToolTip": "C:\\FACULTATE\\AN 3\\SEM 2\\II\\Proiect\\GymFrontend\\gymfrontend\\index.html",
+              "RelativeToolTip": "gymfrontend\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-19T19:30:29.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "eslint.config.js",
+              "DocumentMoniker": "C:\\FACULTATE\\AN 3\\SEM 2\\II\\Proiect\\GymFrontend\\gymfrontend\\eslint.config.js",
+              "RelativeDocumentMoniker": "gymfrontend\\eslint.config.js",
+              "ToolTip": "C:\\FACULTATE\\AN 3\\SEM 2\\II\\Proiect\\GymFrontend\\gymfrontend\\eslint.config.js",
+              "RelativeToolTip": "gymfrontend\\eslint.config.js",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-03-19T19:29:30.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.css",
+              "DocumentMoniker": "C:\\FACULTATE\\AN 3\\SEM 2\\II\\Proiect\\GymFrontend\\GymFrontend\\src\\styles\\Login.css",
+              "RelativeDocumentMoniker": "GymFrontend\\src\\styles\\Login.css",
+              "ToolTip": "C:\\FACULTATE\\AN 3\\SEM 2\\II\\Proiect\\GymFrontend\\GymFrontend\\src\\styles\\Login.css",
+              "RelativeToolTip": "GymFrontend\\src\\styles\\Login.css",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-19T18:11:29.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.css",
+              "DocumentMoniker": "C:\\FACULTATE\\AN 3\\SEM 2\\II\\Proiect\\GymFrontend\\gymfrontend\\src\\App.css",
+              "RelativeDocumentMoniker": "gymfrontend\\src\\App.css",
+              "ToolTip": "C:\\FACULTATE\\AN 3\\SEM 2\\II\\Proiect\\GymFrontend\\gymfrontend\\src\\App.css",
+              "RelativeToolTip": "gymfrontend\\src\\App.css",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-19T17:53:49.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.jsx",
+              "DocumentMoniker": "C:\\FACULTATE\\AN 3\\SEM 2\\II\\Proiect\\GymFrontend\\GymFrontend\\src\\components\\Login.jsx",
+              "RelativeDocumentMoniker": "GymFrontend\\src\\components\\Login.jsx",
+              "ToolTip": "C:\\FACULTATE\\AN 3\\SEM 2\\II\\Proiect\\GymFrontend\\GymFrontend\\src\\components\\Login.jsx",
+              "RelativeToolTip": "GymFrontend\\src\\components\\Login.jsx",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAYwGUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-03-19T18:09:43.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.jsx",
+              "DocumentMoniker": "C:\\FACULTATE\\AN 3\\SEM 2\\II\\Proiect\\GymFrontend\\gymfrontend\\src\\App.jsx",
+              "RelativeDocumentMoniker": "gymfrontend\\src\\App.jsx",
+              "ToolTip": "C:\\FACULTATE\\AN 3\\SEM 2\\II\\Proiect\\GymFrontend\\gymfrontend\\src\\App.jsx",
+              "RelativeToolTip": "gymfrontend\\src\\App.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-03-19T17:50:57.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "main.jsx",
+              "DocumentMoniker": "C:\\FACULTATE\\AN 3\\SEM 2\\II\\Proiect\\GymFrontend\\gymfrontend\\src\\main.jsx",
+              "RelativeDocumentMoniker": "gymfrontend\\src\\main.jsx",
+              "ToolTip": "C:\\FACULTATE\\AN 3\\SEM 2\\II\\Proiect\\GymFrontend\\gymfrontend\\src\\main.jsx",
+              "RelativeToolTip": "gymfrontend\\src\\main.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-03-19T17:50:49.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "index.css",
+              "DocumentMoniker": "C:\\FACULTATE\\AN 3\\SEM 2\\II\\Proiect\\GymFrontend\\gymfrontend\\src\\index.css",
+              "RelativeDocumentMoniker": "gymfrontend\\src\\index.css",
+              "ToolTip": "C:\\FACULTATE\\AN 3\\SEM 2\\II\\Proiect\\GymFrontend\\gymfrontend\\src\\index.css",
+              "RelativeToolTip": "gymfrontend\\src\\index.css",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-19T18:27:52.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Background.jsx",
+              "DocumentMoniker": "C:\\FACULTATE\\AN 3\\SEM 2\\II\\Proiect\\GymFrontend\\gymfrontend\\src\\components\\Background.jsx",
+              "RelativeDocumentMoniker": "gymfrontend\\src\\components\\Background.jsx",
+              "ToolTip": "C:\\FACULTATE\\AN 3\\SEM 2\\II\\Proiect\\GymFrontend\\gymfrontend\\src\\components\\Background.jsx",
+              "RelativeToolTip": "gymfrontend\\src\\components\\Background.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-03-19T18:59:05.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Background.css",
+              "DocumentMoniker": "C:\\FACULTATE\\AN 3\\SEM 2\\II\\Proiect\\GymFrontend\\GymFrontend\\src\\styles\\Background.css",
+              "RelativeDocumentMoniker": "GymFrontend\\src\\styles\\Background.css",
+              "ToolTip": "C:\\FACULTATE\\AN 3\\SEM 2\\II\\Proiect\\GymFrontend\\GymFrontend\\src\\styles\\Background.css",
+              "RelativeToolTip": "GymFrontend\\src\\styles\\Background.css",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-19T19:18:11.892Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

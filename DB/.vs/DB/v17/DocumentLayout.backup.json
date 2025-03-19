@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\FACULTATE\\AN 3\\SEM 2\\II\\tEST\\DB\\",
+  "WorkspaceRootPath": "C:\\FACULTATE\\AN 3\\SEM 2\\II\\Proiect\\DB\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C96E6C70-4373-4455-B6A0-867848DA5329}|DB\\DB.csproj|c:\\facultate\\an 3\\sem 2\\ii\\test\\db\\db\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C96E6C70-4373-4455-B6A0-867848DA5329}|DB\\DB.csproj|c:\\facultate\\an 3\\sem 2\\ii\\proiect\\db\\db\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C96E6C70-4373-4455-B6A0-867848DA5329}|DB\\DB.csproj|solutionrelative:db\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C96E6C70-4373-4455-B6A0-867848DA5329}|DB\\DB.csproj|c:\\facultate\\an 3\\sem 2\\ii\\test\\db\\db\\migrations\\202503181656434_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C96E6C70-4373-4455-B6A0-867848DA5329}|DB\\DB.csproj|solutionrelative:db\\migrations\\202503181656434_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C96E6C70-4373-4455-B6A0-867848DA5329}|DB\\DB.csproj|c:\\facultate\\an 3\\sem 2\\ii\\test\\db\\db\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{C96E6C70-4373-4455-B6A0-867848DA5329}|DB\\DB.csproj|C:\\FACULTATE\\AN 3\\SEM 2\\II\\Proiect\\DB\\db\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{C96E6C70-4373-4455-B6A0-867848DA5329}|DB\\DB.csproj|solutionrelative:db\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C96E6C70-4373-4455-B6A0-867848DA5329}|DB\\DB.csproj|c:\\facultate\\an 3\\sem 2\\ii\\test\\db\\db\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C96E6C70-4373-4455-B6A0-867848DA5329}|DB\\DB.csproj|C:\\FACULTATE\\AN 3\\SEM 2\\II\\Proiect\\DB\\db\\migrations\\202503181656434_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C96E6C70-4373-4455-B6A0-867848DA5329}|DB\\DB.csproj|solutionrelative:db\\migrations\\202503181656434_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C96E6C70-4373-4455-B6A0-867848DA5329}|DB\\DB.csproj|C:\\FACULTATE\\AN 3\\SEM 2\\II\\Proiect\\DB\\db\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C96E6C70-4373-4455-B6A0-867848DA5329}|DB\\DB.csproj|solutionrelative:db\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -34,52 +34,50 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "App.config",
-              "DocumentMoniker": "C:\\FACULTATE\\AN 3\\SEM 2\\II\\tEST\\DB\\DB\\App.config",
+              "DocumentMoniker": "C:\\FACULTATE\\AN 3\\SEM 2\\II\\Proiect\\DB\\DB\\App.config",
               "RelativeDocumentMoniker": "DB\\App.config",
-              "ToolTip": "C:\\FACULTATE\\AN 3\\SEM 2\\II\\tEST\\DB\\DB\\App.config",
+              "ToolTip": "C:\\FACULTATE\\AN 3\\SEM 2\\II\\Proiect\\DB\\DB\\App.config",
               "RelativeToolTip": "DB\\App.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
               "WhenOpened": "2025-03-18T16:57:00.127Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "202503181656434_first.cs",
-              "DocumentMoniker": "C:\\FACULTATE\\AN 3\\SEM 2\\II\\tEST\\DB\\DB\\Migrations\\202503181656434_first.cs",
+              "DocumentMoniker": "C:\\FACULTATE\\AN 3\\SEM 2\\II\\Proiect\\DB\\DB\\Migrations\\202503181656434_first.cs",
               "RelativeDocumentMoniker": "DB\\Migrations\\202503181656434_first.cs",
-              "ToolTip": "C:\\FACULTATE\\AN 3\\SEM 2\\II\\tEST\\DB\\DB\\Migrations\\202503181656434_first.cs",
+              "ToolTip": "C:\\FACULTATE\\AN 3\\SEM 2\\II\\Proiect\\DB\\DB\\Migrations\\202503181656434_first.cs",
               "RelativeToolTip": "DB\\Migrations\\202503181656434_first.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAgwBwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T16:56:50.108Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-18T16:56:50.108Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Configuration.cs",
-              "DocumentMoniker": "C:\\FACULTATE\\AN 3\\SEM 2\\II\\tEST\\DB\\DB\\Migrations\\Configuration.cs",
+              "DocumentMoniker": "C:\\FACULTATE\\AN 3\\SEM 2\\II\\Proiect\\DB\\DB\\Migrations\\Configuration.cs",
               "RelativeDocumentMoniker": "DB\\Migrations\\Configuration.cs",
-              "ToolTip": "C:\\FACULTATE\\AN 3\\SEM 2\\II\\tEST\\DB\\DB\\Migrations\\Configuration.cs",
+              "ToolTip": "C:\\FACULTATE\\AN 3\\SEM 2\\II\\Proiect\\DB\\DB\\Migrations\\Configuration.cs",
               "RelativeToolTip": "DB\\Migrations\\Configuration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T16:56:23.103Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-18T16:56:23.103Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\FACULTATE\\AN 3\\SEM 2\\II\\tEST\\DB\\DB\\Program.cs",
+              "DocumentMoniker": "C:\\FACULTATE\\AN 3\\SEM 2\\II\\Proiect\\DB\\DB\\Program.cs",
               "RelativeDocumentMoniker": "DB\\Program.cs",
-              "ToolTip": "C:\\FACULTATE\\AN 3\\SEM 2\\II\\tEST\\DB\\DB\\Program.cs*",
-              "RelativeToolTip": "DB\\Program.cs*",
-              "ViewState": "AgIAAEMAAAAAAAAAAAAUwFEAAAAkAAAAAAAAAA==",
+              "ToolTip": "C:\\FACULTATE\\AN 3\\SEM 2\\II\\Proiect\\DB\\DB\\Program.cs",
+              "RelativeToolTip": "DB\\Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAawCcAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-18T16:53:53.512Z",
               "EditorCaption": ""

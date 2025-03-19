@@ -34,10 +34,10 @@ namespace GYMBD
             static void Main(string[] args)
             {
 
-                //AddUser();
+                AddUser();
                 // ShowUsers();
                 // DeleteUser(2);
-                 UpdateUser(7);
+            //     UpdateUser(7);
                 Console.ReadKey();
             }
 
